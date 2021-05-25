@@ -2,14 +2,17 @@
 title: HTML让元素居中显示
 date: 2021-05-25
 sidebar: auto
-sticky: true
 tags:
  - html
 categories: 
  - frontend
 ---
+:::tip
+主要介绍了几种常用的布局方式
 
+:::
 
+<!-- more -->
 
 ## 水平居中
 
