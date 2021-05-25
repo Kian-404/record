@@ -57,8 +57,12 @@ module.exports = {
         "plugin",
         "api"
       ]
-    }
-    ,
+    },
+    valineConfig: {
+      showComment: false,
+      appId: 'mwIruueiGynyrjgdrhV2jd6U-gzGzoHsz',// your appId
+      appKey: 'EUjpEnScd7w04KsQvqAYn0S7', // your appKey
+    },
     "type": "blog",
     "blogConfig": {
       // "category": {
