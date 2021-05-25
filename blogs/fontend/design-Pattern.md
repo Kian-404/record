@@ -81,7 +81,7 @@ categories:
 	console.log(person1.sayName == person2.sayName) //true
 ```
 一说到原型就要讲关于原型链的内容，但是原型链我不会，好，讲的好，原型链讲解结束( mmp, 啥也没讲....)
-![原型模式](https://img-blog.csdn.net/20180622165400174?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RpYW5fMTIzNDU2Nzg5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![原型模式](./img/design-pattern.png)
 但是还是画一张图吧，手动草图，溜~
 
 ### 组合使用构造函数模式和原型模式
