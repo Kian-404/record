@@ -16,7 +16,7 @@ categories:
 
 ### 通过浮动实现三栏布局
 
-```js
+```html
 <section>
 		<style type="text/css">
 			.float-layout div{
@@ -53,7 +53,7 @@ categories:
 
 ### 通过定位实现三栏布局
 
-```js
+```html
 <section>
 		<style type="text/css">
 				.position-layout div{
@@ -97,7 +97,7 @@ categories:
 
 ### 通过flex实现三栏布局
 
-```js
+```html
 <section>
 		<style type="text/css">
 			.flex-layout{
@@ -133,7 +133,7 @@ categories:
 
 ### 通过table实现三栏布局
 
-```js
+```html
 <section>
 		<style type="text/css">
 			.table-layout{
@@ -171,7 +171,7 @@ categories:
 
 ### 通过grid实现三栏布局
 
-```js
+```html
 <section>
 		<style type="text/css">
 			.grid-layout{
