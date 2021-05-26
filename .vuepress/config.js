@@ -56,11 +56,17 @@ module.exports = {
       },
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
+      "/docs/leetcode/": [
+        {
+          title: 'leetCode系列',
+          collapsable: true,
+          path: "/docs/leetcode/",
+          children: [
+            "one",
+            "two",
+            "three"
+          ]
+        }
       ]
     },
     valineConfig: {
@@ -70,10 +76,10 @@ module.exports = {
     },
     "type": "blog",
     "blogConfig": {
-      // "category": {
-      //   "location": 2,
-      //   "text": "Category"
-      // },
+      "category": {
+        "location": 2,
+        "text": "Category"
+      },
       "tag": {
         "location": 3,
         "text": "Tag"
