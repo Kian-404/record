@@ -30,7 +30,15 @@ module.exports = {
   plugins: ['@vuepress/pwa', {
     serviceWorker: true,
     updatePopup: true
-  }],
+  },
+    [
+      '@vuepress/register-components',
+      {
+        componentsDir: './components'
+      }
+    ],
+    '@vuepress-reco/extract-code'
+  ],
   "theme": "reco",
   "themeConfig": {
     "nav": [
@@ -127,9 +135,10 @@ module.exports = {
     // 默认是 false, 设置为 true 来启用
     "editLinks": true,
     // 默认为 "Edit this page"
-    "editLinkText": '帮助我改善此页面！'
+    "editLinkText": 'Edit this page'
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+
 }

@@ -15,3 +15,16 @@ keys:
 <!--more -->
 
 hello page test
+
+<RecoDemo :collapse="true">
+  <template slot="code-template">
+    <<< @/.vuepress/components/demo.vue?template
+  </template>
+  <template slot="code-script">
+    <<< @/.vuepress/components/demo.vue?script
+  </template>
+  <template slot="code-style">
+    <<< @/.vuepress/components/demo.vue?style
+  </template>
+  <demo slot="demo"></demo>
+</RecoDemo>
