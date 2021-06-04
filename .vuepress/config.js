@@ -71,9 +71,11 @@ module.exports = {
           collapsable: true,
           path: "/docs/leetcode/",
           children: [
-            "one",
-            "two",
-            "three"
+            "",
+            "find-the-difference",
+            // "one",
+            // "two",
+            // "three"
           ]
         }
       ]
