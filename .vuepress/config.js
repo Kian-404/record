@@ -42,14 +42,14 @@ module.exports = {
         {
           name: '寻宝',
           artist: '沈以诚',
-          url: 'http://m701.music.126.net/20210607142523/b37e1bd50957dcf41b5863767f2d04e6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/4603473502/dcfe/c1f5/1ebc/1e65b92a1f584569c866a3ac65b57946.mp3',
-          cover: 'https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg'
+          url: 'https://m701.music.126.net/20210607142523/b37e1bd50957dcf41b5863767f2d04e6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/4603473502/dcfe/c1f5/1ebc/1e65b92a1f584569c866a3ac65b57946.mp3',
+          cover: 'https://p1.music.126.net/gKb2PcbOKD6u89yRt_9HrQ==/109951165347972122.jpg'
         },
         {
           name: 'Wherever You Go',
           artist: 'A Rocket to the Moon',
-          url: 'http://m8.music.126.net/20210607143510/6f170274dce2de2779ea03fd7dfa62fd/ymusic/54ed/2e25/611b/0c14f3204a8e76391d1c073ced708754.mp3',
-          cover: 'https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg'
+          url: 'https://m8.music.126.net/20210607143510/6f170274dce2de2779ea03fd7dfa62fd/ymusic/54ed/2e25/611b/0c14f3204a8e76391d1c073ced708754.mp3',
+          cover: 'https://p2.music.126.net/8WnAIjL4p0LgUlR4-6hFBA==/109951164077209196.jpg'
         },
       ],
       autoShrink: true,
