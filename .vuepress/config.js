@@ -96,6 +96,7 @@ module.exports = {
           children: [
             "",
             "find-the-difference",
+            "climbing-stairs"
             // "one",
             // "two",
             // "three"
