@@ -10,8 +10,8 @@ isShowComments: false
 <script src="https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js"></script>
 <script>
 bbtalk.init({
-  appId: "E6YqJifXrN9dNvXkuNkS6lBn-gzGzoHsz",
-  appKey: "eTBk7GP3ux0IjbHCYh3B21iC",
+  appId: 'E6YqJifXrN9dNvXkuNkS6lBn-gzGzoHsz',
+  appKey: 'eTBk7GP3ux0IjbHCYh3B21iC',
   serverURLs: 'https://E6YqJifX.api.lncldglobal.com'
 })
 </script>
