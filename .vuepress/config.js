@@ -82,6 +82,11 @@ module.exports = {
         "icon": "reco-message"
       },
       {
+        "text": "Talk",
+        "link": "/talk/",
+        "icon": "reco-three"
+      },
+      {
         "text": "About Me",
         "link": "/about/",
         "icon": "reco-account"
