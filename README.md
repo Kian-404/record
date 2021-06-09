@@ -27,10 +27,8 @@ features:
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
 
-<script>
-bbtalk.init({
-  appId: 'E6YqJifXrN9dNvXkuNkS6lBn-gzGzoHsz',
-  appKey: 'eTBk7GP3ux0IjbHCYh3B21iC',
-  serverURLs: 'https://e6yqjifx.lc-cn-n1-shared.com'
-})
-</script>
+<style>
+.home-link {
+  display:flex !important;
+}
+</style>

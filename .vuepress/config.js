@@ -1,15 +1,16 @@
 module.exports = {
-  "title": "Kian_ 的小破站",
+  "title": "Kian_",
   "description": "正经人谁看简介呀! 你说是吧彦祖",
   "dest": "public",
   "head": [
-    [
-      "link",
-      {
-        "rel": "icon",
-        "href": "/favicon.ico"
-      }
-    ],
+    ["script", { src: "https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js" }],
+    // [
+    //   "link",
+    //   {
+    //     "rel": "icon",
+    //     "href": "/favicon.ico"
+    //   }
+    // ],
     [
       "meta",
       {
@@ -27,7 +28,7 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
-    ["script", { src: "https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js" }]
+
   ],
   plugins: {
     '@vuepress/pwa': {
