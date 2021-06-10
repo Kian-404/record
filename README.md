@@ -18,11 +18,4 @@ bgImageStyle: {
 isShowTitleInHome: false
 ---
 
-<style>
-.home-link {
-  display:flex !important;
-}
-.mode-options .color-mode-options{
-  flex-wrap: nowrap !important;
-}
-</style>
+<homeStyle />
