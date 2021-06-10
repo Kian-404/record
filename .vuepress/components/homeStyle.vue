@@ -1,7 +1,7 @@
 <!--
  * @Version: 
  * @Date: 2021-06-10 22:10:08
- * @LastEditTime: 2021-06-10 22:28:14
+ * @LastEditTime: 2021-06-10 23:01:26
 -->
 <template>
   
@@ -27,6 +27,6 @@ export default {
   display: none;
 }
 .sidebar .personal-info-wrapper{
-  display: none;
+  display: none !important;
 }
 </style>
