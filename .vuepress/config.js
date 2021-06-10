@@ -103,7 +103,8 @@ module.exports = {
           children: [
             "",
             "find-the-difference",
-            "climbing-stairs"
+            "climbing-stairs",
+            "binary-search"
             // "one",
             // "two",
             // "three"

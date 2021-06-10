@@ -1,5 +1,7 @@
 <template>
-  <div id="bbtalk"></div>
+  <div class="talk-content">
+    <div id="bbtalk"></div>
+  </div>
 </template>
 
 <script>
@@ -17,4 +19,10 @@ export default {
 </script>
 
 <style scoped>
+.talk-content {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px #0aef02;
+}
 </style>
