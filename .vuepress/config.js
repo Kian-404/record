@@ -101,11 +101,11 @@ module.exports = {
           collapsable: true,
           path: "/docs/leetcode/",
           children: [
-            "",
             "find-the-difference",
             "climbing-stairs",
             "binary-search",
-            "same-tree"
+            "same-tree",
+            "binary-tree-preorder-traversal"
             // "one",
             // "two",
             // "three"
