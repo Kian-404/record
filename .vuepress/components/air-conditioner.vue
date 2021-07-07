@@ -9,11 +9,8 @@ export default {};
 </script>
 
 <style scoped>
-.conditioner{
- 
-}
-.conditioner .iframe{
- width: 100%;
+.conditioner .iframe {
+  width: 100%;
   height: 800px;
   border: none;
 }
