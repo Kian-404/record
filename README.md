@@ -13,7 +13,7 @@ tagline: "Learning Reading Coding"
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '0'
 }
 isShowTitleInHome: false
 ---
