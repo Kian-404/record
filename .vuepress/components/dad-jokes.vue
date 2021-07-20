@@ -2,7 +2,7 @@
  * @Version: 0.0.0.1
  * @LastEditor: Kian
  * @Date: 2021-07-20 10:23:16
- * @LastEditTime: 2021-07-20 10:35:26
+ * @LastEditTime: 2021-07-20 15:24:53
 -->
 <template>
   <div class="dad-jokes">
@@ -58,7 +58,7 @@ export default {
 }
 
 .container {
-  background-color: #fff;
+  background-color: var(--background-color);
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
   padding: 50px 20px;
