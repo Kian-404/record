@@ -1,16 +1,9 @@
 module.exports = {
   "title": "Kian_",
-  "description": "正经人谁看简介呀! 你说是吧彦祖",
+  "description": "国服最强摸鱼怪",
   "dest": "public",
   "head": [
     ["script", { src: "https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js" }],
-    // [
-    //   "link",
-    //   {
-    //     "rel": "icon",
-    //     "href": "/favicon.ico"
-    //   }
-    // ],
     [
       "meta",
       {
@@ -18,7 +11,6 @@ module.exports = {
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       }
     ],
-    // ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'icon', href: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌴</text></svg>' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -111,20 +103,6 @@ module.exports = {
       //   "text": "Tag"
       // }
     },
-    // "friendLink": [
-    //   {
-    //     "title": "午后南杂",
-    //     "desc": "Enjoy when you can, and endure when you must.",
-    //     "email": "1156743527@qq.com",
-    //     "link": "https://www.recoluan.com"
-    //   },
-    //   {
-    //     "title": "vuepress-theme-reco",
-    //     "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-    //     "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-    //     "link": "https://vuepress-theme-reco.recoluan.com"
-    //   }
-    // ],
     "logo": "/avatar.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
