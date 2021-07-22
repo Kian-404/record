@@ -1,3 +1,9 @@
+<!--
+ * @Version: 0.0.0.1
+ * @LastEditor: Kian
+ * @Date: 2021-06-09 17:00:26
+ * @LastEditTime: 2021-07-21 16:54:34
+-->
 <template>
   <div class="talk-content">
     <div id="bbtalk"></div>
@@ -23,6 +29,5 @@ export default {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 5px #0aef02;
 }
 </style>
