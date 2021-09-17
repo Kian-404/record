@@ -1,9 +1,9 @@
 module.exports = {
   "title": "Kian_",
-  "description": "国服最强摸鱼怪",
+  "description": "record something",
   "dest": "public",
   "head": [
-    ["script", { src: "https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js" }],
+    // ["script", { src: "https://cdn.jsdelivr.net/npm/bbtalk@0.1.5/dist/bbtalk.min.js" }],
     [
       "meta",
       {
@@ -57,11 +57,11 @@ module.exports = {
         "link": "/comments/",
         "icon": "reco-message"
       },
-      {
-        "text": "Talk",
-        "link": "/talk/",
-        "icon": "reco-three"
-      },
+      // {
+      //   "text": "Talk",
+      //   "link": "/talk/",
+      //   "icon": "reco-three"
+      // },
       {
         "text": "About Me",
         "link": "/about/",
@@ -103,12 +103,12 @@ module.exports = {
       //   "text": "Tag"
       // }
     },
-    "logo": "/avatar.jpg",
+    // "logo": "/avatar.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Kian_",
-    "authorAvatar": "/avatar.jpg",
+    // "authorAvatar": "/avatar.jpg",
     // "record": "xxxx",
     "startYear": "2017",
 
