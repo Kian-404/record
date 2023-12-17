@@ -33,11 +33,11 @@ module.exports = {
     '@vuepress-reco/extract-code': {
 
     },
-    'ribbon': {
-      size: 90, // width of the ribbon, default: 90
-      opacity: 0.8, // opacity of the ribbon, default: 0.3
-      zIndex: -1, // z-index property of the background, default: -1
-    }
+    // 'ribbon': {
+    //   size: 90, // width of the ribbon, default: 90
+    //   opacity: 0.8, // opacity of the ribbon, default: 0.3
+    //   zIndex: -1, // z-index property of the background, default: -1
+    // }
   },
   "theme": "reco",
   "themeConfig": {
