@@ -13,7 +13,7 @@
     "@vuepress/plugin-register-components": "^1.8.2",
     "vuepress": "1.8.2",
     "vuepress-plugin-ribbon": "^1.0.4",
-    "vuepress-theme-reco": "1.6.6"
+    "vuepress-theme-reco": "1.6.17"
   },
   "description": "",
   "dependencies": {
