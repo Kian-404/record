@@ -63,6 +63,11 @@ module.exports = {
       //   "icon": "reco-three"
       // },
       {
+        "text": "YGemini",
+        "link": "/ygemini/",
+        "icon": "reco-other"
+      },
+      {
         "text": "About Me",
         "link": "/about/",
         "icon": "reco-account"
@@ -110,7 +115,7 @@ module.exports = {
     "author": "Kian_",
     // "authorAvatar": "/avatar.jpg",
     // "record": "xxxx",
-    "startYear": "2017",
+    "startYear": "2021",
 
     nextLinks: true,
     prevLinks: true,
