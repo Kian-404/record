@@ -1,6 +1,6 @@
 ---
 title: YGemini
-publish: true
+publish: false
 isShowComments: false
 ---
 
